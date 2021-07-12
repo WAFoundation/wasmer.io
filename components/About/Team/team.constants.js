@@ -16,15 +16,9 @@ const team = [
     image: 'ivan.png',
   },
   {
-    name: 'Mark McCaskey',
+    name: 'Wiqar Chaudry',
     description:
-      'Software engineer and language lover (Mark speaks 3 different languages!). Prior joining Wasmer he created rusty-boy, a GameBoy emulator in Rust.',
-  },
-  {
-    name: 'Nick Lewycky',
-    description:
-      'Expert compiler engineer. Chocolatier. Ex-Google, with more than 10 year tenure on the company and LLVM core contributor.',
-    image: 'nick.png',
+      '',
   },
   {
     name: 'Heyang Zhou',
