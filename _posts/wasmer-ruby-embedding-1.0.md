@@ -73,7 +73,7 @@ A few things to note:
 
 * We have introduced a `Store` type. It holds an engine and a
   compiler. Similar to the previous version, the default engine is
-  JIT, and the default compiler is Cranelift. However, we introduced
+  Universal, and the default compiler is Cranelift. However, we introduced
   significant performance improvements in the current release… more on
   that later. In future releases, developers will be able to change
   the default engine and compiler.
